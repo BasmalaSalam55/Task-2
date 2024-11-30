@@ -1,0 +1,98 @@
+.body{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    font-family: Arial, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.ch1{
+    background-color: hwb(29 22% 11%);
+    height: 420%;
+    width: 33.33%; 
+    
+    float: left;
+}
+.ch2{
+    height: 420%;
+    width: 33.33%; 
+    background-color: #1c6363;
+    float: left;
+}
+.ch3{
+    height: 420%;
+    width: 33.33%; 
+    
+    background-color: hwb(180 2% 82%);
+    float: left;
+}
+.parent{
+  text-align: center;
+   height: 470px;
+   width: 800px;
+   display: inline-block;
+   border-radius: 1%;
+   overflow: hidden;
+   border-radius: 10px;
+  border: solid white;
+  margin-bottom: 100px;
+  margin-top: 87px;
+ 
+}
+.end{    
+    clear: both; 
+}
+.img{
+  margin-top: 38px;
+   margin-right:90px
+}
+.p{
+    margin-left: 30px;
+    margin-right: 30px;
+    color: rgb(236, 220, 199);
+  font-size: small;
+  line-height:2;
+  font-family: sans-serif ;
+  padding: 11px;
+}
+.h2{
+    color: aliceblue;
+    margin-right:100px;
+   font-family: Tusker Grotesk 4500 Medium;
+   margin-top: 35px;
+   margin-left:30px;
+}
+.button1{
+    background-color: white;
+    color:#ec7622;
+    border: none;
+    padding: 14px 32px;
+    border-radius: 28px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-right: 70px;
+}
+.button2{
+    background-color: white;
+    color:  #1c6363;
+    border: none;
+    padding: 14px 32px;
+    border-radius: 28px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-right: 70px;
+}
+.button3{
+    background-color: white;
+    color:hwb(180 2% 82%);
+    border: none;
+    padding: 14px 32px;
+    border-radius: 28px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-right: 70px;
+}
